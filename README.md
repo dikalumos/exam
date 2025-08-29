@@ -4,6 +4,5 @@
 
 1. Make sure you have Node.js installed on your computer.
 2. Open your terminal or command prompt.
-3. Navigate to this project folder.
-4. Run the following command:
+3. Run the following command:
    `node name_file.js`
